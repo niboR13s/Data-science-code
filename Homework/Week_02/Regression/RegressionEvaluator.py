@@ -303,6 +303,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from xgboost import XGBRegressor
 from sklearn.exceptions import ConvergenceWarning
+import matplotlib.patches as patches
 
 class RegressionEvaluator:
     def __init__(self, name="Regression Evaluator", random_state=42, time_series=False):
