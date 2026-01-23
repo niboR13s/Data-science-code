@@ -1,6 +1,12 @@
 import cv2
 import os
 import glob
+# Code for making images from video for training
+
+
+
+
+
 
 # --- CONFIGURATION ---
 
