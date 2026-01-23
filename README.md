@@ -21,4 +21,7 @@ Here you will find reference materials, including:
 ### 4. Homework
 This folder contains the weekly assignments, organized by subfolders per week.
 
+### 5. Data project
+This folder contains the final data project
+
 

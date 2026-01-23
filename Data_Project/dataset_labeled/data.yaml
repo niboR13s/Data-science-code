@@ -1,0 +1,7 @@
+names:
+  0: door_open
+  1: trunk_open
+  2: hood_open
+path: /home/robin/Data science code/Data_Project/dataset_labeled
+train: images/train
+val: images/train
